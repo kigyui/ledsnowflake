@@ -1,6 +1,8 @@
 # ledsnowflake
 Magical Latex Girl LED Snowflake necklace
 
+![pic1](https://raw.githubusercontent.com/kigyui/ledsnowflake/master/02-frontofsnowflake.jpg)
+
 I bought a strip of 100 bright white leds which were wired in parallel
 on a nice thin cable for just a few dollars. I cut off 2 sections
 each with 6 leds.
@@ -23,4 +25,5 @@ and you can get a good 3 or 4 hours runtime.
 No real circuit explanation is needed, the battery connects to
 the attiny85, the positive from the LED strands runs to D0 and D1,
 and all the grounds are joined.
+
 
